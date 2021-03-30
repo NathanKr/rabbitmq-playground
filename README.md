@@ -11,6 +11,7 @@ Play with RabbitMQ which is the most popular open source message broker
 <h2>Points of interest</h2>
 <ul>
 <li>code is based on rabbitmq get started <a href='https://www.rabbitmq.com/getstarted.html'>here</a></li>
+<li>it is possible to see the queue using rabbitmqctl list_queues from the command line</li>
 </ul>
 
 <h2>Content</h2>
